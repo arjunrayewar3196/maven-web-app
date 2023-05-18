@@ -5,4 +5,4 @@ This is my maven-web-app readme
 
 
 ## Author:
-Arjun Rayewar
+Arjun rayewar
